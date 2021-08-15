@@ -157,8 +157,9 @@
         text-align: center;
         padding: 0 1rem;
         font-weight: 800;
-        font-size: 0.65rem;
+        font-size: 3rem;
         @extend .text-uppercase;
+        color: rgb(218, 81, 81)!important;
     }
 
     .sidebar-card {
@@ -173,13 +174,16 @@
         margin-bottom: 1rem;
         padding: 1rem;
         background-color: fade-out($black, 0.9);
+
         .sidebar-card-illustration {
             height: 3rem;
             display: block;
         }
+
         .sidebar-card-title {
             font-weight: bold;
         }
+
         p {
             font-size: 0.75rem;
             color: fade-out($white, 0.5);
