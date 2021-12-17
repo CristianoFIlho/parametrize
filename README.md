@@ -1,6 +1,7 @@
 # Parametrize
 
 ![parametrize](https://user-images.githubusercontent.com/54041918/146537107-9eb5500b-7dd4-45e6-bd70-facf9295d45a.gif)
+
 Deploy: https://parametrize.netlify.app
 
 
