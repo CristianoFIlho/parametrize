@@ -1,3 +1,10 @@
+# Parametrize
+
+![parametrize](https://user-images.githubusercontent.com/54041918/146537107-9eb5500b-7dd4-45e6-bd70-facf9295d45a.gif)
+Deploy: https://parametrize.netlify.app
+
+
+
 # [Start Bootstrap - SB Admin 2](https://startbootstrap.com/theme/sb-admin-2/)
 
 [SB Admin 2](https://startbootstrap.com/theme/sb-admin-2/) is an open source admin dashboard theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
